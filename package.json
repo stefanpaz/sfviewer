@@ -1,0 +1,11 @@
+{
+  "name": "sfviewer",
+  "version": "0.0.1",
+  "description": "Salesforce object browser using no framework or libraries.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Paz <paz.stefan@gmail.com>",
+  "license": "MIT"
+}
